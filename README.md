@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WIP
 
 You can use the [editor on GitHub](https://github.com/OllieOlliverio/MC-Shader-Creator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
